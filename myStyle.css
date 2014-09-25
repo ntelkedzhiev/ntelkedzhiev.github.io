@@ -1,3 +1,50 @@
-body {
-	background-color: lightblue;
+#res_name {
+	text-align: center;
+	margin-bottom: 3px;
 }
+
+#email {
+	margin-top: 3px;
+	text-align: center;
+	font-style: italic;
+}
+.job_subt {
+	margin-top: 3px;
+	font-style: italic;
+}
+.nav_bar {
+	text-align: center;
+	padding-bottom: 30px;
+}
+.nav_entry {
+	font-size: 120%;
+	padding-right: 40px;
+    display: inline;
+	vertical-align: middle;
+}
+
+#res_body {
+  	background-color:white;
+  	padding-left: 20px;
+  }
+#my_name {
+  	color:black;
+  	text-align: center;
+  	font-size:300%;
+  	margin-bottom: 0px;
+  }
+
+ #my_title {
+  	color:gray;
+  	margin-top: 0px;
+  	text-align: center;
+ }
+ #img1 {
+ 	width: 300px; /*or your image's width*/
+ 	height: 300px; /*or your image's height*/
+	display: block;
+	margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto
+}
+ 
